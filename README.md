@@ -8,4 +8,6 @@ Since e is exponential, let's say we have a 5e3 number that is evaluated to 5000
 
  only the value and not the data type when we use the == comparison operator instead of the identical operator ===
 
-Thus, employing 2e4 will result  20000 because and it is a numeric number and greater than 999, which resolves our problem.
+Thus, employing 2e4 will result  20000 because and it is a numeric number and greater than 999 
+
+which resolves our problem and get us the flag FLAG{Yes_Y0u_C4n_Use_Exp0nentiaL}.
